@@ -1,18 +1,13 @@
-{"status":true,
-
-"data":{"from_yt":[
-
-{"listId":"PLgC4sCLvt8eANCqNEq1GmFsQFUOcXhYvu",
-
-"title":"ဟင်းချက်နည်းများ",
-
-"thumb":"https://lh3.googleusercontent.com/-lyn3Pd5bpo4/YCOGIJRncrI/AAAAAAAAA5k/0dFsFxC3hJUjj4--DqUuVkOH26lI_nIlACLcBGAsYHQ/s1600/IMG_ORG_1612940821150.jpeg",
-
-"count":35
-}
-
-]
-
-}
-
+{
+  "status": true,
+  "title": "MyApp",
+  "msg": "This is message ",
+  "banner_id": "isBanner",
+  "popup_id": "is Interstitial",
+  "publisher_id": "is pub id",
+  "ad_count": 1,
+  "ad_count_show": 1,
+  "fucking_url": "It main url",
+  "shouldShowInfo": true,
+  "maintenanceMode": false
 }
